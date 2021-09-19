@@ -3,7 +3,7 @@ Badges that can be used in readme's, projects, slides etc.
 
 ## Works with OpenJDK
 
-This badge can be used in the README.md of your project to show people that your project works with OpenJDK.
+This badge can be used in the README.md of your project to show people that your project <a href="https://foojay.io/works-with-openjdk">works with OpenJDK</a>.
 
 To add it to your README.md you simply have to add the following line to your README.md file:
 
