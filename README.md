@@ -36,12 +36,12 @@ You can also use it in different sizes like follows:
 [![WorksWithOpenJDK](https://github.com/foojayio/badges/raw/main/works_with_openjdk/WorksWithOpenJDK-80.png)](https://foojay.io/works-with-openjdk)
 
 
-50px wide:
+60px wide:
 ```markdown
-[![WorksWithOpenJDK](https://github.com/foojayio/badges/raw/main/works_with_openjdk/WorksWithOpenJDK-50.png)](https://foojay.io/today/works-with-openjdk)
+[![WorksWithOpenJDK](https://github.com/foojayio/badges/raw/main/works_with_openjdk/WorksWithOpenJDK-60.png)](https://foojay.io/today/works-with-openjdk)
 ```
 
-[![WorksWithOpenJDK](https://github.com/foojayio/badges/raw/main/works_with_openjdk/WorksWithOpenJDK-50.png)](https://foojay.io/today/works-with-openjdk)
+[![WorksWithOpenJDK](https://github.com/foojayio/badges/raw/main/works_with_openjdk/WorksWithOpenJDK-60.png)](https://foojay.io/today/works-with-openjdk)
 
 
 40px wide:
