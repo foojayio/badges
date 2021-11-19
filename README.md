@@ -13,7 +13,7 @@ To add it to your README.md you simply have to add the following line to your RE
 ```
 
 Use the svg:
-![](https://github.com/foojayio/badges/raw/main/works_with_openjdk/WorksWithOpenJDK.svg =100x54)
+![](https://github.com/foojayio/badges/raw/main/works_with_openjdk/WorksWithOpenJDK.svg)
 
 Make sure to add an empty line after <a> tag!
 
