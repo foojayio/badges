@@ -13,8 +13,7 @@ To add it to your README.md you simply have to add the following line to your RE
 ```
 
 
-<iframe width="100" height="54" src="https://raw.githubusercontent.com/foojayio/badges/main/works_with_openjdk/WorksWithOpenJDK_100px.html"></iframe>
-
+<iframe width="100" height="54" src="https://github.com/foojayio/badges/raw/main/works_with_openjdk/WorksWithOpenJDK_100px.html"></iframe>
 
 Make sure to add an empty line after <a> tag!
 
