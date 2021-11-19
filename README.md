@@ -12,9 +12,9 @@ To add it to your README.md you simply have to add the following line to your RE
 
 ```
 
-
+<div>
 <iframe width="100" height="54" src="https://github.com/foojayio/badges/raw/main/works_with_openjdk/WorksWithOpenJDK_100px.html"></iframe>
-
+</div>
 Make sure to add an empty line after <a> tag!
 
 In your README.md file it will look as follows:
